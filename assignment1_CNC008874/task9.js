@@ -1,0 +1,10 @@
+var firstNo = 3;
+var secondNo = 5;
+var subraction = firstNo - secondNo;
+var multiplication = firstNo * secondNo;
+var division = firstNo / secondNo;
+var modulus = firstNo % secondNo;
+document.write("Subracton of "+ firstNo +" and "+ secondNo+ " is "+ subraction +"<br>");
+document.write("Multipication of "+ firstNo +" and "+ secondNo+ " is "+ multiplication +"<br>");
+document.write("Division of "+ firstNo +" and "+ secondNo+ " is "+ division +"<br>");
+document.write("Modulus of "+ firstNo +" and "+ secondNo+ " is "+ modulus +"<br>");
